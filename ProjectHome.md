@@ -1,0 +1,1 @@
+Library to enable 2d gaming development on Codename One platform.
